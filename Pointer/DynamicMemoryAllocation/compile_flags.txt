@@ -1,0 +1,9 @@
+-I/Users/deepakumari/Documents/C++Practice/Pointer/DynamicMemoryAllocation
+-I/Applications/Xcode14.1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1
+-I/Applications/Xcode14.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include
+-I/Applications/Xcode14.1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include
+-I/Applications/Xcode14.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include
+-I/Applications/Xcode14.1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks
+-std=c++17
+-target
+x86_64-apple-darwin22.1.0

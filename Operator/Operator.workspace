@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Operator" Database="" Version="10000">
+  <Project Name="AssignmentOperator" Path="AssignmentOperator/AssignmentOperator.project" Active="No"/>
+  <Project Name="ArithmeticOperator" Path="ArithmeticOperator/ArithmeticOperator.project" Active="No"/>
+  <Project Name="LogicalOperator" Path="LogicalOperator/LogicalOperator.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="AssignmentOperator" ConfigName="Debug"/>
+      <Project Name="ArithmeticOperator" ConfigName="Debug"/>
+      <Project Name="LogicalOperator" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="AssignmentOperator" ConfigName="Release"/>
+      <Project Name="ArithmeticOperator" ConfigName="Release"/>
+      <Project Name="LogicalOperator" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

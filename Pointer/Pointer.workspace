@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Pointer" Database="" Version="10000">
+  <Project Name="DeclareStorePointer" Path="DeclareStorePointer/DeclareStorePointer.project" Active="No"/>
+  <Project Name="ArrayandPointer" Path="ArrayandPointer/ArrayandPointer.project" Active="No"/>
+  <Project Name="DynamicMemoryAllocation" Path="DynamicMemoryAllocation/DynamicMemoryAllocation.project" Active="No"/>
+  <Project Name="Derefencing" Path="Derefencing/Derefencing.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="DeclareStorePointer" ConfigName="Debug"/>
+      <Project Name="ArrayandPointer" ConfigName="Debug"/>
+      <Project Name="DynamicMemoryAllocation" ConfigName="Debug"/>
+      <Project Name="Derefencing" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="DeclareStorePointer" ConfigName="Release"/>
+      <Project Name="ArrayandPointer" ConfigName="Release"/>
+      <Project Name="DynamicMemoryAllocation" ConfigName="Release"/>
+      <Project Name="Derefencing" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

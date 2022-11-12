@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="controlFlowProgram" Database="" Version="10000">
+  <Project Name="IF_ex10" Path="IF_ex10/IF_ex10.project" Active="No"/>
+  <Project Name="IFelse_ex11" Path="IFelse_ex11/IFelse_ex11.project" Active="No"/>
+  <Project Name="NestedIf_Ex12" Path="NestedIf_Ex12/NestedIf_Ex12.project" Active="No"/>
+  <Project Name="Switch_ex13" Path="Switch_ex13/Switch_ex13.project" Active="No"/>
+  <Project Name="ForLoop_ex14" Path="ForLoop_ex14/ForLoop_ex14.project" Active="No"/>
+  <Project Name="RangeBasedForLoop_ex15" Path="RangeBasedForLoop_ex15/RangeBasedForLoop_ex15.project" Active="No"/>
+  <Project Name="WhileLoop_ex16" Path="WhileLoop_ex16/WhileLoop_ex16.project" Active="No"/>
+  <Project Name="PyramidCharacter" Path="PyramidCharacter/PyramidCharacter.project" Active="No"/>
+  <Project Name="NestedLoop" Path="NestedLoop/NestedLoop.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="IF_ex10" ConfigName="Debug"/>
+      <Project Name="IFelse_ex11" ConfigName="Debug"/>
+      <Project Name="NestedIf_Ex12" ConfigName="Debug"/>
+      <Project Name="Switch_ex13" ConfigName="Debug"/>
+      <Project Name="ForLoop_ex14" ConfigName="Debug"/>
+      <Project Name="RangeBasedForLoop_ex15" ConfigName="Debug"/>
+      <Project Name="WhileLoop_ex16" ConfigName="Debug"/>
+      <Project Name="PyramidCharacter" ConfigName="Debug"/>
+      <Project Name="NestedLoop" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="IF_ex10" ConfigName="Release"/>
+      <Project Name="IFelse_ex11" ConfigName="Release"/>
+      <Project Name="NestedIf_Ex12" ConfigName="Release"/>
+      <Project Name="Switch_ex13" ConfigName="Release"/>
+      <Project Name="ForLoop_ex14" ConfigName="Release"/>
+      <Project Name="RangeBasedForLoop_ex15" ConfigName="Release"/>
+      <Project Name="WhileLoop_ex16" ConfigName="Release"/>
+      <Project Name="PyramidCharacter" ConfigName="Release"/>
+      <Project Name="NestedLoop" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
